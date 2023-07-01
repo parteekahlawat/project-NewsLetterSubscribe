@@ -1,0 +1,18 @@
+{
+  "name": "newsletter-mail",
+  "version": "1.0.0",
+  "description": "News letter project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Parteek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "request": "^2.88.2"
+  }
+}
