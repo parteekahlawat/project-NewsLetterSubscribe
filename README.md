@@ -1,11 +1,11 @@
-#Project -  News Letter Subscribe
+# Project -  News Letter Subscribe
 
 
-##About
+## About
 
 
 
-##Languages
+## Languages
 Front End - HTML + CSS
 
 Back End - Express + Node Js
