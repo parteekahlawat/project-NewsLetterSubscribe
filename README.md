@@ -11,7 +11,7 @@ The API used here is revoked for public viewing of this app. So, for getting the
 
 **Step 2** - Open terminal at the file path (PS: Check the terminal path correctly)
 
-**Step 3** - `npm i express body-parser request https nodemon` - run this command in terminal
+**Step 3** - `npm install` - run this command in terminal
 
 **Step 4** - `nodemon server.js` - run the command
 
