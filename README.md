@@ -20,9 +20,9 @@ The API used here is revoked for public viewing of this app. So, for getting the
 **NOTE :- Make sure to change the API key and list ID of the code**
 
 ## Languages
-**Front End - HTML + CSS
+**Front End - HTML + CSS**
 
-Back End - Express + Node Js**
+**Back End - Express + Node Js**
 
 
 ## Pages
