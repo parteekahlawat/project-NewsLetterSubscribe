@@ -1,4 +1,4 @@
-![Screenshot 2023-07-01 230352](https://github.com/parteekahlawat/project-NewsLetterSubscribe/assets/72187356/9fc317cf-b208-48c9-872e-44a4ec35a3a6)# Project -  News Letter Subscribe
+# Project -  News Letter Subscribe
 
 
 ## About
@@ -26,18 +26,25 @@ The API used here is revoked for public viewing of this app. So, for getting the
 
 
 ## Pages
-**Page 1 - SignIn**
+### **Page 1 - SignIn**
+
 ![Screenshot 2023-07-01 230352](https://github.com/parteekahlawat/project-NewsLetterSubscribe/assets/72187356/24dc48a2-7509-44ff-bb39-6546126cbc79)
 
 This page is for getting the First Name, Last Name, Email Addresses of the client
 
 On entering details it will redirect you to SuccessPage / FailurePage
 
-**Page 2 - SuccessPage**
+### **Page 2 - SuccessPage**
+
+![Screenshot 2023-07-01 230712](https://github.com/parteekahlawat/project-NewsLetterSubscribe/assets/72187356/2128b631-75dc-44ba-9daf-82368a4af15f)
+
 
 This page will be shown when the entered info **successfully** sent to our server and stored to out MailChimps database
 
-**Page 3 - FailurePage**
+### **Page 3 - FailurePage**
+
+![Screenshot 2023-07-01 230730](https://github.com/parteekahlawat/project-NewsLetterSubscribe/assets/72187356/4100bff0-4403-4076-b5c0-d2308cab2848)
+
 
 This page will be shown when the entered info **gets some error** from our API or gets some error to store the info to our MailChimps database
 
