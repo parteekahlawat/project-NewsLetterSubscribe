@@ -11,11 +11,13 @@ step 1 - Clone the repo in your local system
 
 step 2 - Open terminal at the file path (PS: Check the terminal path correctly)
 
-step 3 - `npm i express body-parser request https`
+step 3 - `npm i express body-parser request https nodemon` - run this command in terminal
 
+step 4 - `nodemon server.js` - run the command
 
+Now your server is live at PORT 3000 you can go to your localhost:3000
 
-
+NOTE :- Make sure to change the API key and list ID of the code
 
 ## Languages
 **Front End - HTML + CSS
