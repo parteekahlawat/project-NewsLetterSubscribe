@@ -40,3 +40,4 @@ This page will be shown when the entered info **successfully** sent to our serve
 
 This page will be shown when the entered info **gets some error** from our API or gets some error to store the info to our MailChimps database
 
+## Thank You
