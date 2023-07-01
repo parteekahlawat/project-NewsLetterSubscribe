@@ -17,7 +17,7 @@ step 4 - `nodemon server.js` - run the command
 
 Now your server is live at PORT 3000 you can go to your localhost:3000
 
-NOTE :- Make sure to change the API key and list ID of the code
+**NOTE :- Make sure to change the API key and list ID of the code**
 
 ## Languages
 **Front End - HTML + CSS
