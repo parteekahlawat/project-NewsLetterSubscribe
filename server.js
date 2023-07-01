@@ -41,6 +41,7 @@ app.post("/", (req, res) => {
     ]
   };
   var jsonData = JSON.stringify(data);
+  //This API is revoked - To run this app please change the API 
   const url = "https://us21.api.mailchimp.com/3.0/lists/de42c89d43";
 
   const options = {
