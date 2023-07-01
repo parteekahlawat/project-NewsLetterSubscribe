@@ -46,6 +46,7 @@ app.post("/", (req, res) => {
 
   const options = {
     method: "POST",
+    //This API is revoked - To run this app please change the API 
     auth: "parteekishere:9f38748d38a91f7686c63e1ad241f6e8-us21"
   };
 
