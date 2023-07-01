@@ -7,15 +7,15 @@ This is for **subscribing to the news letters** the data will be stored in MailC
 The API used here is revoked for public viewing of this app. So, for getting the data as stored you have to use new API 
 
 ## Run the app
-step 1 - Clone the repo in your local system
+**Step 1** - Clone the repo in your local system
 
-step 2 - Open terminal at the file path (PS: Check the terminal path correctly)
+**Step 2** - Open terminal at the file path (PS: Check the terminal path correctly)
 
-step 3 - `npm i express body-parser request https nodemon` - run this command in terminal
+**Step 3** - `npm i express body-parser request https nodemon` - run this command in terminal
 
-step 4 - `nodemon server.js` - run the command
+**Step 4** - `nodemon server.js` - run the command
 
-Now your server is live at PORT 3000 you can go to your localhost:3000
+**Now,** your server is live at PORT 3000 you can go to your localhost:3000
 
 **NOTE :- Make sure to change the API key and list ID of the code**
 
