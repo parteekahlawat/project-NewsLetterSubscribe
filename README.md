@@ -1,4 +1,4 @@
-# Project -  News Letter Subscribe
+![Screenshot 2023-07-01 230352](https://github.com/parteekahlawat/project-NewsLetterSubscribe/assets/72187356/9fc317cf-b208-48c9-872e-44a4ec35a3a6)# Project -  News Letter Subscribe
 
 
 ## About
@@ -27,6 +27,7 @@ The API used here is revoked for public viewing of this app. So, for getting the
 
 ## Pages
 **Page 1 - SignIn**
+![Screenshot 2023-07-01 230352](https://github.com/parteekahlawat/project-NewsLetterSubscribe/assets/72187356/24dc48a2-7509-44ff-bb39-6546126cbc79)
 
 This page is for getting the First Name, Last Name, Email Addresses of the client
 
