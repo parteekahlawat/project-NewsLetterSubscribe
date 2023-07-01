@@ -6,6 +6,16 @@ This is for **subscribing to the news letters** the data will be stored in MailC
 
 The API used here is revoked for public viewing of this app. So, for getting the data as stored you have to use new API 
 
+## Run the app
+step 1 - Clone the repo in your local system
+
+step 2 - Open terminal at the file path (PS: Check the terminal path correctly)
+
+step 3 - `npm i express body-parser request https`
+
+
+
+
 
 ## Languages
 **Front End - HTML + CSS
